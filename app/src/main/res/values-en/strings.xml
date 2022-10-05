@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chapter5_Topik4</string>
+    <string name="halaman_utama">Home Page</string>
+    <string name="selamat_datang">Welcome!</string>
+    <string name="halaman_kedua">Second Page</string>
+    <string name="ubah_ke_bahasa_indonesia">Change to Indonesia</string>
+    <string name="ubah_ke_bahasa_inggris">Change to English</string>
+    <string name="pindah_ke_halaman_kedua">Move to Second Page</string>
+</resources>

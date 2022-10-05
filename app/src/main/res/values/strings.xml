@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chapter5_Topik4</string>
+    <string name="halaman_utama">Halaman Utama</string>
+    <string name="selamat_datang">Selamat Datang!</string>
+    <string name="halaman_kedua">Halaman Kedua</string>
+    <string name="ubah_ke_bahasa_indonesia">Ubah ke Bahasa Indonesia</string>
+    <string name="ubah_ke_bahasa_inggris">Ubah ke Bahasa Inggris</string>
+    <string name="pindah_ke_halaman_kedua">Pindah ke halaman kedua</string>
+</resources>
